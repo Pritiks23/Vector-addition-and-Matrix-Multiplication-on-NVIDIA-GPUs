@@ -1,3 +1,4 @@
+!(https://www.avg.com/en/signal/cpu-vs-gpu-comparison)
 # 🚀 Exploring GPU Computing and Mixed Precision in PyTorch
 
 I just wrapped up a hands-on project experimenting with **matrix multiplication and vector addition on NVIDIA GPUs**, and I learned a ton about how modern GPUs accelerate computation.
